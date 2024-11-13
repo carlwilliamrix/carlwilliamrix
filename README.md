@@ -7,11 +7,13 @@
 ## Work Experience
 
 ### Working Student - Project Management for SAP's Cloud
+
 **SAP SE**
 *10/2024 - Present*
 Berlin, Germany
 
 ### Bachelor Thesis Intern 
+
 **SAP SE**
 *02/2024 - 07/2024*
 Walldorf, Germany
@@ -23,11 +25,13 @@ Walldorf, Germany
 - Researched and proposed strategies to reduce the carbon footprint of SAP applications, contributing to SAP’s commitment to sustainable development.
 
 ### Student Assistant
+
 **Fontys University of Applied Sciences**
 *09/2023 - 01/2024*
 Venlo, Netherlands
 
 ### Digital Finance & Innovation Intern 
+
 **Vodafone Germany GmbH**
 *02/2024 - 07/2024*
 Walldorf, Germany
@@ -38,6 +42,7 @@ Walldorf, Germany
 - Backend development of microservices with Python.
 
 ### Student Assistant
+
 **Fontys University of Applied Sciences**
 *09/2023 - 01/2024*
 Venlo, Netherlands
@@ -46,6 +51,7 @@ Venlo, Netherlands
 -  Answering questions and advising groups of students.
 
 ### Work & Travel
+
 **Work & Travel Canada**
 *10/2019 - 03/2020*
 
@@ -55,21 +61,36 @@ Venlo, Netherlands
 ## Education
 
 ### Business Informatics | Master of Science 
+
 **HTW-Berlin**
 *10/2024 - Present*
 Berlin, Germany
 
 ### Business Informatics | Bachelor of Science
+
 **Fontys University of Applied Sciences**
 *09/2020 - 07/2024*
 Venlo, Netherlands
 
 ### Semester Abroad | Minor
+
 **Victoria University**
 *02/2023 - 06/2023*
 Melbourne, Australia
 
 ### Marie-Curie-Gymnasium | Abitur
+
 *07/2019*
 Düsseldorf, Germany
 
+## Licences & Certifications
+
+### Cloud Essentials - Knowledge Badge Readiness Path
+**AWS**
+*Issued 11/07/2024*
+
+### Certified SAFe 5 Practioner
+**Scaled Agile, Inc.**
+*Issued 09/2022 - 09/2023*
+
+## Voluntary Activities
