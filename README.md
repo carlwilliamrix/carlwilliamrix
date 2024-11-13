@@ -52,4 +52,24 @@ Venlo, Netherlands
 - Jobs done included the restaurant and service sector in Vancouver and Revelstoke.
 - Traveling through many areas in British Colombia and Alberta.
 
+## Education
+
+### Business Informatics | Master of Science 
+**HTW-Berlin**
+*10/2024 - Present*
+Berlin, Germany
+
+### Business Informatics | Bachelor of Science
+**Fontys University of Applied Sciences**
+*09/2020 - 07/2024*
+Venlo, Netherlands
+
+### Semester Abroad | Minor
+**Victoria University**
+*02/2023 - 06/2023*
+Melbourne, Australia
+
+### Marie-Curie-Gymnasium | Abitur
+*07/2019*
+Düsseldorf, Germany
 
