@@ -4,7 +4,7 @@
 - **LinkedIn**:
 - **GitHub**:
 
-## Work Experience
+## 💡 Work Experience
 
 ### Working Student - Project Management for SAP's Cloud  
 **SAP SE**  
@@ -52,7 +52,7 @@ Venlo, Netherlands
 - Jobs done included the restaurant and service sector in Vancouver and Revelstoke.
 - Traveling through many areas in British Colombia and Alberta.
 
-## Education
+## 🎓 Education
 
 ### Business Informatics | Master of Science 
 **HTW-Berlin**  
@@ -73,7 +73,7 @@ Melbourne, Australia
 *07/2019*  
 Düsseldorf, Germany  
 
-## Licences & Certifications
+## 📚 Licences & Certifications
 
 ### Cloud Essentials - Knowledge Badge Readiness Path  
 **AWS**  
@@ -83,7 +83,7 @@ Düsseldorf, Germany
 **Scaled Agile, Inc.**  
 *Issued 09/2022 - 09/2023*  
 
-## Voluntary Activities
+## 🤝 Voluntary Activities
 
 ### Semester Speaker  
 **HTW-Berlin**  
