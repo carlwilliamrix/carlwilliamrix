@@ -1,8 +1,8 @@
-# Carl William Rix 
+# Carl William Rix - SAP & HTW-Berlin
 
 - **Nationality**: Germany
-- **LinkedIn**:
-- **GitHub**:
+- **LinkedIn**: www.linkedin.com/in/carl-william-rix
+- **GitHub**: https://github.com/carlwilliamrix
 
 ## 💡 Work Experience
 
