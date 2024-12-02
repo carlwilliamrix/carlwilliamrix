@@ -3,6 +3,7 @@
 - **Nationality**: Germany
 - **LinkedIn**: www.linkedin.com/in/carl-william-rix
 - **GitHub**: https://github.com/carlwilliamrix
+- **Credly**: https://www.credly.com/users/carl-rix
 
 ## 💡 Work Experience
 
